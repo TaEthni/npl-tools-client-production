@@ -180,6 +180,8 @@ THE SOFTWARE.
 
 @angular/material/list
 
+@angular/material/menu
+
 @angular/material/paginator
 
 @angular/material/progress-bar
@@ -188,11 +190,17 @@ THE SOFTWARE.
 
 @angular/material/select
 
+@angular/material/sidenav
+
+@angular/material/slide-toggle
+
 @angular/material/slider
 
 @angular/material/snack-bar
 
 @angular/material/table
+
+@angular/material/tabs
 
 @angular/material/toolbar
 
